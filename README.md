@@ -16,7 +16,7 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
 
 ### 📊 Data & Analytics
 - **Data Analysis & Visualization:** Power BI (Dashboards, Business Analytics)  
-- **Tools:** Excel (Advanced), SQL  
+- **Tools:** Excel, SQL  
 
 ### ☁️ Platforms & Systems
 - **Cloud:** AWS (Certified Cloud Practitioner)  
