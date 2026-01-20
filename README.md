@@ -1,41 +1,146 @@
-# Hi there, I'm Satyam Mishra! 👋
+# Hi there, I'm Harsh Garg! 👋
 
-### 👨‍🏫 Data Science Trainer | Technical Educator | Developer
+### 🎓 MCA Student | Aspiring Data Scientist | Business Analyst Enthusiast
 
-I am a Data Science professional and Educator based in **Jaipur, Rajasthan**, with a passion for bridging the gap between theoretical concepts and real-world software development.
+I am a dedicated **IT student** based in **Jaipur, Rajasthan**, with a strong passion for coding, data analysis, and solving real-world problems using technology. I am currently pursuing my **Master of Computer Applications (MCA)** at **IIS University, Jaipur**.
 
-Currently, I am a **Data Science Trainer at Ambuja Foundation**, where I train students in Python, SQL, and Machine Learning, helping them transition from learners to industry-ready professionals. My goal is to work with progressive educational institutions to teach, learn, and experiment with new software technologies.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-* **Languages:** Python (Specializing in OOP, Exception Handling), SQL (MySQL).
-* **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-* **Visualization:** Power BI, Advanced Excel.
-* **Version Control:** Git & GitHub.
+I am actively seeking **internships and entry-level roles** in **Data Science** or **Business Analytics** to gain hands-on industry experience and grow professionally.
 
 ---
 
-### 🔭 Current Projects
+## 🛠️ Skills & Technologies
 
-* **Student Information Management System:**
-    * *Description:* A Python-based application designed to store, retrieve, and manage student records efficiently.
-    * *Focus:* Implementing Object-Oriented Programming (OOP) pillars, File Handling, and Error Management.
-    * *Goal:* Using this as a live teaching tool to demonstrate the Software Development Lifecycle (SDLC).
+### 💻 Programming & Web
+- **Languages:** Python, HTML5, CSS3  
+- **Database:** MySQL  
 
-* **Revenue Analysis (Adidas vs. Nike):**
-    * *Description:* A data analysis project comparing two retail giants to identify revenue drivers using Python libraries.
+### 📊 Data & Analytics
+- **Data Analysis & Visualization:** Power BI (Dashboards, Business Analytics)  
+- **Tools:** Excel (Advanced), SQL  
+
+### ☁️ Platforms & Systems
+- **Cloud:** AWS (Certified Cloud Practitioner)  
+- **Operating Systems:** Windows 10/11, Linux (Kali)  
+
+### 🔧 Version Control
+- Git & GitHub  
 
 ---
 
-### 🚀 Teaching Philosophy
+## 🔭 Projects
 
-I believe in **"Learning by Building."** whether it is analyzing unicorn startups or building management software, I ensure my students understand the *why* behind the code. I am constantly exploring new ways to integrate software development into academic curriculums.
+### 🏥 Hospital Management Data Analysis
+- Analyzed hospital datasets using **SQL, Excel, and Power BI**.
+- Designed **interactive dashboards** for management-level insights.
+- Used charts, slicers, and filters for dynamic data exploration.
+- Focused on operational efficiency and data-driven decision-making.
+
+### ☕ Shree Radha Café Website
+- Developed a **responsive café website** using **HTML, CSS, and JavaScript**.
+- Implemented features such as:
+  - Image carousel
+  - Food menu section
+  - Customer feedback form
+- Improved UI/UX with modern styling and basic animations.
 
 ---
 
-### 📫 Connect with Me
+## 📜 Certifications
+- **Data Science & Analytics Certificate**
+- **AWS Certified Cloud Practitioner** – Amazon Web Services
+- **Power BI Workshop Certificate**
+- **DevTown SQL for Analyst (5-Day Bootcamp) & Appreciation Certificate**
 
-* **Email:** msatyam376@gmail.com
-* **Location:** Jaipur, Rajasthan 302017
+---
+
+## 🎯 Areas of Interest
+- Data Science  
+- Business Analytics  
+
+---
+
+## 💪 Strengths
+- Quick learner and highly adaptive
+- Strong analytical and problem-solving skills
+- Self-motivated and goal-oriented
+
+---
+
+## 📫 Connect with Me
+- **Email:** gargharsh9664@gmail.com  
+- **LinkedIn:** linkedin.com/in/garshgarg2005  
+- **GitHub:** github.com/harshgarg2005  
+- **Location:** Jaipur, Rajasthan, India
+# Hi there, I'm Harsh Garg! 👋
+
+### 🎓 MCA Student | Aspiring Data Scientist | Business Analyst Enthusiast
+
+I am a dedicated **IT student** based in **Jaipur, Rajasthan**, with a strong passion for coding, data analysis, and solving real-world problems using technology. I am currently pursuing my **Master of Computer Applications (MCA)** at **IIS University, Jaipur**.
+
+I am actively seeking **internships and entry-level roles** in **Data Science** or **Business Analytics** to gain hands-on industry experience and grow professionally.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming & Web
+- **Languages:** Python, HTML5, CSS3  
+- **Database:** MySQL  
+
+### 📊 Data & Analytics
+- **Data Analysis & Visualization:** Power BI (Dashboards, Business Analytics)  
+- **Tools:** Excel (Advanced), SQL  
+
+### ☁️ Platforms & Systems
+- **Cloud:** AWS (Certified Cloud Practitioner)  
+- **Operating Systems:** Windows 10/11, Linux (Kali)  
+
+### 🔧 Version Control
+- Git & GitHub  
+
+---
+
+## 🔭 Projects
+
+### 🏥 Hospital Management Data Analysis
+- Analyzed hospital datasets using **SQL, Excel, and Power BI**.
+- Designed **interactive dashboards** for management-level insights.
+- Used charts, slicers, and filters for dynamic data exploration.
+- Focused on operational efficiency and data-driven decision-making.
+
+### ☕ Shree Radha Café Website
+- Developed a **responsive café website** using **HTML, CSS, and JavaScript**.
+- Implemented features such as:
+  - Image carousel
+  - Food menu section
+  - Customer feedback form
+- Improved UI/UX with modern styling and basic animations.
+
+---
+
+## 📜 Certifications
+- **Data Science & Analytics Certificate**
+- **AWS Certified Cloud Practitioner** – Amazon Web Services
+- **Power BI Workshop Certificate**
+- **DevTown SQL for Analyst (5-Day Bootcamp) & Appreciation Certificate**
+
+---
+
+## 🎯 Areas of Interest
+- Data Science  
+- Business Analytics  
+
+---
+
+## 💪 Strengths
+- Quick learner and highly adaptive
+- Strong analytical and problem-solving skills
+- Self-motivated and goal-oriented
+
+---
+
+## 📫 Connect with Me
+- **Email:** gargharsh9664@gmail.com  
+- **LinkedIn:** linkedin.com/in/garshgarg2005  
+- **GitHub:** github.com/harshgarg2005  
+- **Location:** Jaipur, Rajasthan, India
