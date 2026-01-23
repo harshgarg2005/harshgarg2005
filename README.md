@@ -29,13 +29,14 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
 
 ## 🔭 Projects
 
-### 🏥 Hospital Management Data Analysis
+### 🏥 [Hospital Management Data Analysis](https://github.com/harshgarg2005/Hospital-Management-Data-Analysis-Project)
 - Analyzed hospital datasets using **SQL, Excel, and Power BI**.
 - Designed **interactive dashboards** for management-level insights.
 - Used charts, slicers, and filters for dynamic data exploration.
 - Focused on operational efficiency and data-driven decision-making.
 
-### ☕ Shree Radha Café Website
+### ☕ [Shree Radha Café Website](https://shreeradhatiffincenterandcafe.netlify.app/)
+
 - Developed a **responsive café website** using **HTML, CSS, and JavaScript**.
 - Implemented features such as:
   - Image carousel
@@ -67,7 +68,7 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
 ---
 
 ## 📫 Connect with Me
-- **Email:** [Send Email](mailto:gargharsh9664@gmail.com)  
+- **Email:** [gargharsh9664@gmail.com](mailto:gargharsh9664@gmail.com)  
 - **LinkedIn:** linkedin.com/in/garshgarg2005  
 - **GitHub:** github.com/harshgarg2005  
 - **Location:** Jaipur, Rajasthan, India
