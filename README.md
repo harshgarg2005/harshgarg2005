@@ -17,7 +17,7 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
 ### 📊 Data & Analytics
 - **Data Analysis & Visualization:** Power BI (Dashboards, Business Analytics)  
 - **Tools:** Excel, SQL  
-
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 ### ☁️ Platforms & Systems
 - **Cloud:** AWS (Certified Cloud Practitioner)  
 - **Operating Systems:** Windows 10/11, Linux (Kali)  
@@ -43,6 +43,15 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
   - Food menu section
   - Customer feedback form
 - Improved UI/UX with modern styling and basic animations.
+
+### 🎓 [Student Management System EDA Report](https://github.com/harshgarg2005/Student-Management-System-EDA-Report)
+- Performed student performance analysis using **Python, Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.
+- Conducted **Exploratory Data Analysis (EDA)** to identify academic trends and performance patterns.
+- Designed **interactive Power BI dashboards** for GPA, attendance, and study behavior analysis.
+- Created visualizations including heatmaps, boxplots, histograms, and bar charts for data-driven insights.
+- Developed system diagrams such as **DFD, ER Diagram, and Use Case Diagram** for project architecture.
+- Focused on educational analytics, student performance monitoring, and data-driven decision-making.
+
 
 ---
 
