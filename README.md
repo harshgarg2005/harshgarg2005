@@ -76,8 +76,7 @@ I am actively seeking **internships and entry-level roles** in **Data Science** 
 
 ---
 
-## 📫 Connect with Me
-- **Email:**[gargharsh9664@gmail.com](mailto:gargharsh9664@gmail.com)  
+## 📫 Connect with Me 
 - **LinkedIn:**[garshgarg2005](https://www.linkedin.com/in/gargharsh2005/)  
 - **GitHub:**[harshgarg2005](https://github.com/harshgarg2005) 
 - **Location:** Jaipur, Rajasthan, India
